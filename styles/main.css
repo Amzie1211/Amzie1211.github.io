@@ -1,2 +1,10 @@
-h1 {color:purple}
-body {color:red; font-size:24pt}
+h1 {color:red}
+body {color:springgreen; font-size:24pt}
+
+#wrapper{align:center;background-color:purple}
+
+#header{height:70px;text-align:center}
+
+#navbar{float:left}
+
+#content{width:23em;float:right}
